@@ -1,5 +1,5 @@
 ## 📖 Recursos de Desenvolvimento úteis (pra mim)
-<img src="imagens/capaREADME.png" width = "500"  style="text-align:center;">
+<a href="https://storyset.com/work"><img src="imagens/capaREADME.png" width = "250"  style="text-align:center;"></a>
 
 ## 🔮 O que é este projeto?
 Este projeto é apenas uma lista de recursos que eu costumo utilizar nos meus projetos, ou que acho úteis. Como eu não sou muito boa em organizar os favoritos no navegador, resolvi criar este repositório organizando estes recursos.
