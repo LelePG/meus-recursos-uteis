@@ -1,4 +1,4 @@
-## Recursos úteis Git e Github
+## 📖 Recursos úteis Git e Github
 
 |Nome|Função|Observação|
 |:----------:|:----------:|:----------:|

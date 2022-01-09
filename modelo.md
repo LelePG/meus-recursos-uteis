@@ -1,4 +1,4 @@
-## Recursos úteis TECNOLOGIA
+## 📖 Recursos úteis TECNOLOGIA
 
 |Nome|Função|Observação|
 |:----------:|:----------:|:----------:|

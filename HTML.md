@@ -1,4 +1,4 @@
-## Recursos úteis HTML
+## 📖 Recursos úteis HTML
 
 |Nome|Função|Observação|
 |:----------:|:----------:|:----------:|
