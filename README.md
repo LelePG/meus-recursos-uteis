@@ -10,6 +10,6 @@ Este projeto está organizado na forma de vários arquivos escritos em markdown.
 ## 💎 No momento tenho alguns recursos úteis para...
 * [CSS](./CSS.md)
 * [HTML](./HTML.md)
-* [Design](./Desgin.md)
+* [Design](./Design.md)
 * [Git e Github](./GitGithub.md)
 * [Vue](./Vue.md)
