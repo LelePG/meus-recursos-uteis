@@ -17,5 +17,6 @@
 |[Cool Backgrounds](https://coolbackgrounds.io/)|Geração de backgrounds|Possui várias possibilidades de fundos, incluindo gradiente|
 |[Loading.io](https://loading.io/spinner/)|Site com figuras para tela de loading||
 |[Gee! Me](https://geeme.vercel.app/)|Site com personagens||
-|[Lineicos](https://lineicons.com/icons/)|Site com ícones|
+|[Lineicos](https://lineicons.com/icons/)|Site com ícones||
+|[Styled-icons](https://styled-icons.dev/)| Site com ícones||
 <!--- |[]()||| -->
